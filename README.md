@@ -1,0 +1,1 @@
+Точка входа в приложение: scraper_clinical_trials_selenium.py

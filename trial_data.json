@@ -1,0 +1,370 @@
+[
+    {
+        "sponsor": "Tufts Medical Center",
+        "condition": "COVID-19",
+        "intervention": "Infliximab",
+        "subject": "Drug",
+        "enrollment": 17,
+        "events": {
+            "Cardiac Arrest": {
+                "Infliximab": {
+                    "Affected / at Risk (%)": "1/17",
+                    "%": 5.88,
+                    "Events": 1
+                }
+            },
+            "Covid-Associated Pulmonary Aspergillosis": {
+                "Infliximab": {
+                    "Affected / at Risk (%)": "1/17",
+                    "%": 5.88,
+                    "Events": 1
+                }
+            }
+        }
+    },
+    {
+        "sponsor": "Dhaka Medical College",
+        "condition": "Covid19",
+        "enrollment": 400,
+        "events": {
+            "Erosive esophagitis": {
+                "Ivermectin and Doxycycline": {
+                    "Affected / at Risk (%)": "2/183",
+                    "%": 1.09,
+                    "Events": 2
+                },
+                "Placebo": {
+                    "Affected / at Risk (%)": "0/180",
+                    "%": 0.0,
+                    "Events": 0
+                }
+            }
+        }
+    },
+    {
+        "sponsor": "University of Nove de Julho",
+        "condition": "COVID-19",
+        "enrollment": 100,
+        "events": {}
+    },
+    {
+        "sponsor": "University of Arkansas",
+        "condition": "COVID-19",
+        "intervention": "Assessing the impact of COVID-19",
+        "subject": "Other",
+        "enrollment": 120,
+        "events": {}
+    },
+    {
+        "sponsor": "PharmaMar",
+        "condition": "COVID-19",
+        "enrollment": 46,
+        "events": {
+            "Condition aggravated": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "1/45",
+                    "%": 2.22,
+                    "Events": 1
+                }
+            },
+            "Anaphylactic reaction": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "1/45",
+                    "%": 2.22,
+                    "Events": 1
+                }
+            },
+            "Pyelonephritis": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "1/45",
+                    "%": 2.22,
+                    "Events": 1
+                }
+            },
+            "COVID-19 pneumonia": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 2
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "2/45",
+                    "%": 4.44,
+                    "Events": 3
+                }
+            },
+            "Superinfection bacterial": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "1/45",
+                    "%": 2.22,
+                    "Events": 1
+                }
+            },
+            "Status epilepticus": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "1/45",
+                    "%": 2.22,
+                    "Events": 1
+                }
+            },
+            "Acute respiratory distress syndrome": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "2/15",
+                    "%": 13.33,
+                    "Events": 3
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "4/45",
+                    "%": 8.89,
+                    "Events": 5
+                }
+            },
+            "Respiratory failure": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 2
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "1/45",
+                    "%": 2.22,
+                    "Events": 2
+                }
+            },
+            "Pneumomediastinum": {
+                "Experimental 1": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 2": {
+                    "Affected / at Risk (%)": "0/15",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Experimental 3": {
+                    "Affected / at Risk (%)": "1/15",
+                    "%": 6.67,
+                    "Events": 1
+                },
+                "Total": {
+                    "Affected / at Risk (%)": "1/45",
+                    "%": 2.22,
+                    "Events": 1
+                }
+            }
+        }
+    },
+    {
+        "sponsor": "Vicore Pharma AB",
+        "condition": "COVID-19",
+        "enrollment": 206,
+        "events": {
+            "Cardio-respiratory arrest": {
+                "C21 Treatment": {
+                    "Affected / at Risk (%)": "1/51",
+                    "%": 1.96,
+                    "Events": 1
+                },
+                "Placebo Treatment": {
+                    "Affected / at Risk (%)": "1/55",
+                    "%": 1.82,
+                    "Events": 1
+                },
+                "No Treatment (Before Randomization)": {
+                    "Affected / at Risk (%)": "0/100",
+                    "%": 0.0,
+                    "Events": 0
+                }
+            },
+            "COVID-19 pneumonia": {
+                "C21 Treatment": {
+                    "Affected / at Risk (%)": "0/51",
+                    "%": 0.0,
+                    "Events": 0
+                },
+                "Placebo Treatment": {
+                    "Affected / at Risk (%)": "2/55",
+                    "%": 3.64,
+                    "Events": 2
+                },
+                "No Treatment (Before Randomization)": {
+                    "Affected / at Risk (%)": "2/100",
+                    "%": 2.0,
+                    "Events": 2
+                }
+            }
+        }
+    },
+    {
+        "sponsor": "Eurnekian Public Hospital",
+        "condition": "Covid19",
+        "intervention": "Iota carrageenan nasal spray and Ivermectin oral drops (used as buccal drops)",
+        "subject": "Combination Product",
+        "enrollment": 229,
+        "events": {}
+    },
+    {
+        "sponsor": "Kermanshah University of Medical Sciences",
+        "condition": "COVID-19",
+        "enrollment": 120,
+        "events": {}
+    },
+    {
+        "sponsor": "Afyonkarahisar Health Sciences University",
+        "condition": "COVID-19",
+        "intervention": "Ivermectin",
+        "subject": "Drug",
+        "enrollment": 66,
+        "events": {
+            "Encephalopathy": {
+                "Control Group": {
+                    "Affected / at Risk (%)": "0/30",
+                    "%": 0.0,
+                    "Events": null
+                },
+                "Study Group": {
+                    "Affected / at Risk (%)": "0/30",
+                    "%": 0.0,
+                    "Events": null
+                },
+                "Participants With Mutations": {
+                    "Affected / at Risk (%)": "5/6",
+                    "%": 83.33,
+                    "Events": null
+                }
+            }
+        }
+    },
+    {
+        "sponsor": "Priscilla Hsue, MD",
+        "enrollment": 34,
+        "events": {
+            "Death": {
+                "COVID-19 Convalescent Plasma": {
+                    "Affected / at Risk (%)": "1/16",
+                    "%": 6.25
+                },
+                "Placebo": {
+                    "Affected / at Risk (%)": "1/18",
+                    "%": 5.56
+                }
+            },
+            "Intubation": {
+                "COVID-19 Convalescent Plasma": {
+                    "Affected / at Risk (%)": "2/16",
+                    "%": 12.5
+                },
+                "Placebo": {
+                    "Affected / at Risk (%)": "0/18",
+                    "%": 0.0
+                }
+            }
+        }
+    }
+]
